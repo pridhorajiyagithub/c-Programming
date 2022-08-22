@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 	int a[100],b[100],c[100];
-int n1,n2,i;
+    int n1,n2,i;
     cout << "enter first array size::";
     cin >> n1 ;
 	
@@ -15,7 +15,7 @@ int n1,n2,i;
 	 } 
 	  
 	cout << "enter second array size::";
-    cin >> n2 ;
+        cin >> n2 ;
 	
 	cout << "enter array element::";
 	for(i=0 ; i<n2 ; i++)
